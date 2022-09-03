@@ -1,0 +1,1 @@
+alias Poeticoins.Exchanges.CoinbaseClient
